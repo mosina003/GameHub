@@ -23,8 +23,8 @@ It provides a simple, interactive hub where users can choose and play multiple g
 - Built with **React + CSS/Tailwind**.  
 - Works seamlessly on both **desktop and mobile**.  
 
-### 4️⃣ *Backend (Optional)*
-- A **Spring Boot backend** can be added for user management, scores, or saving progress.  
+### 4️⃣ *Backend 
+- A **Spring Boot backend** added for user management, scores, or saving progress.  
 
 ---
 
@@ -38,7 +38,7 @@ It provides a simple, interactive hub where users can choose and play multiple g
 
 ## 🖥️ *Tech Stack*
 - **Frontend:** React.js, React Router, JavaScript (ES6+), CSS/Tailwind  
-- **Backend:** Spring Boot (optional)  
+- **Backend:** Spring Boot   
 - **Build Tools:** Node.js, npm/yarn  
 
 ---
