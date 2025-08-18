@@ -1,4 +1,4 @@
-🎮 GameHub
+🎮 GAMEHUB
 
 GameHub is a fun collection of classic browser-based games built with React.
 It provides a simple, interactive hub where users can choose and play multiple games directly in the browser.
